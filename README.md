@@ -18,6 +18,9 @@ Clone the Complete Project
 
 Navigate to test_api_basic and run the batch file to start the API server
 
+![Starting API Server1](./contents/StartingAPI.PNG)
+![Starting API Server2](./contents/RunningAPI.PNG)
+
 Open the Postman and import the collection
 
 Test all the API requests manually and confirm
@@ -34,8 +37,11 @@ pip install -r requirements.txt
 
 In the APIAutomationUsingRF/tests/api/endpoints/ path you can find the tests for different scenarios
 
-Use the below command to run it
+Use the below command to run it and view the respective log report.
 
 ```python
 robot-d results *.robot
 ```
+
+![RunningTests1](./contents/Running1.PNG)
+![RunningTests2](./contents/Running2.PNG)
