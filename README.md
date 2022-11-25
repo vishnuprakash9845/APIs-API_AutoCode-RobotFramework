@@ -25,6 +25,8 @@ Open the Postman and import the collection
 
 Test all the API requests manually and confirm
 
+![PostMan](./contents/PM.PNG)
+
 ## Step-2
 
 Navigate to the APIAutomationUsingRF and open it in the Pycharm/VS code IDE and set the virtual environment
